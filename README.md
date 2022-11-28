@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai prakash</h1>
 <h3 align="center">A passionate Junior Data Scientist and Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently working on **Online EDA Automation**
+- 🔭 I’m currently working on **Sensor fault detection project**
 
 - 🌱 I’m currently learning **Computer vision, NLP and AIops **
 
