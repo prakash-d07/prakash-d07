@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sai prakash</h1>
 <h3 align="center">A lazy Data Bug</h3>
 
-- 🔭 I’m currently working on **Sensor fault detection project**
+- 🔭 I’m currently working on **Building some end to End projects**
 
-- 🌱 I’m currently learning **Computer vision, NLP and AIops **
+- 🌱 I’m currently learning **Computer vision, NLP and MLOPS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 🤝 I’m looking for help with **Neuro Engineering project**
 
 - 📰 You can find my certifications and experience on [Certification](https://drive.google.com/drive/folders/1ElFE9S4VNqlB_nP5JV4AQkRUdk60wa0b?usp=sharing)
  
 - 📝 I regularly write articles on [Medium](https://prakash0007.medium.com/)
 
--  📜 You Can find my resume here [Prakash_Resume](https://drive.google.com/file/d/1V1iQQzOsdepEoMr7MCLijvtDMcVVaGRX/view?usp=sharing)
+-  📜 You Can find my resume here [Prakash_Resume]([https://drive.google.com/file/d/1V1iQQzOsdepEoMr7MCLijvtDMcVVaGRX/view?usp=sharing](https://docs.google.com/document/d/1lxW-r1oGQqInAekaCjLQYS6-nAO13isS/edit))
 
 - 💬 Ask me about **Python,Machine Learning, Deep learning and statistics**
 
