@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai prakash</h1>
+<h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A lazy Data Bug</h3>
 
 - 🔭 I’m currently working on **Building some end to End projects**
